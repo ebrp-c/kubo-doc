@@ -1,6 +1,6 @@
 {
 
-    "kubo": "kubo_emoji.png"  ,
-    "kubo2": "./assets/kubo_emoji_sin_fondo.png" 
+    "kubo01": "../assets/kubo_emoji.png"  ,
+    "kubo02": "../assets/kubo_emoji_sin_fondo.png" 
 
 }

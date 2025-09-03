@@ -1,7 +1,11 @@
 # kubo-doc
 
+:kubo2: 
+
 # :kubo: prueba
 # :kubo2: prueba
+
+:kubo: pruebaaa
 
 # 📘 Documentación de Data & BI
 
@@ -23,3 +27,9 @@ Toda la información sensible se encuentra en el **Password Manager (Bitwarden)*
 - [Servicios Externos](./doc/servicios_externos.md)
 - [Sistemas Internos](./doc/sistemas_internos.md)
 - [Usuario Windows](./doc/usuario_windows.md)
+
+
+# <span class="emoji kubo"></span> Documentación KUBO
+
+
+# <span class="emoji kubo"></span> Documentación KUBO

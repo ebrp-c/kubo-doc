@@ -1,0 +1,10 @@
+{
+  "Kubo emoji": {
+    "scope": "markdown",
+    "prefix": ":kubo:",
+    "body": [
+      "<img src=\"../assets/KUBO_EMOJI_20.png\" width=\"20\" style=\"vertical-align:-4px;\"/>"
+    ],
+    "description": "Inserta el emoji KUBO como imagen inline"
+  }
+}
