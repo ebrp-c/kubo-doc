@@ -34,4 +34,4 @@ Toda la información sensible se encuentra en el **Password Manager (Bitwarden)*
 
 # <span class="emoji kubo"></span> Documentación KUBO
 
-<img src="./assets/KUBO_EMOJI_20.png" width="20"/> Documentación
+<img src="./assets/kubo_emoji_sin_fondo.png" width="20"/> Documentación
